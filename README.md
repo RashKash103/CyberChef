@@ -7,7 +7,7 @@ CyberChef docker image in the GitHub container registry.
 ## Usage
 
 ```bash
-docker run -p 8080:80 RashKash103/CyberChef:latest
+docker pull ghcr.io/rashkash103/cyberchef:latest
 ```
 
 ## Credit
